@@ -1,2 +1,0 @@
-# wewwdwdddddwlkdwwewwewd
-PanDa.msa
