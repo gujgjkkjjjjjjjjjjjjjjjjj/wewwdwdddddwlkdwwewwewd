@@ -342,4 +342,4 @@ client.on('message', message => {
     }
 });
 
-client.login(process.env.44);
+client.login(process.env.BOT_TOKEN);
